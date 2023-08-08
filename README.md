@@ -13,5 +13,5 @@
 
 ## Stack utilizada
 
-**Back-end:** Node, Telegram bot API
+**Back-end:** Node (DNS module) and Telegram bot API
 
