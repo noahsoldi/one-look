@@ -1,9 +1,9 @@
 
-# oneLook
+# one-look
 
-🇧🇷 - O bot oneLook foi criado para me auxiliar no trabalho, ao enviar um domínio, ele responde enviando os IP's, nameservers e MX's daquele domínio, facilitando saber onde o site está hospedado.
+🇧🇷 - O bot one-look foi criado para me auxiliar no trabalho, ao enviar um domínio, ele responde enviando os IP's, nameservers e MX's daquele domínio, facilitando saber onde o site está hospedado.
 
-🇺🇸 - The bot oneLook was created to assist me in my work by sending domain information when I provide a domain name. It responds with the IP addresses, nameservers, and MX records of that domain, making it easier to determine where the website is hosted.
+🇺🇸 - The bot one-look was created to assist me in my work by sending domain information when I provide a domain name. It responds with the IP addresses, nameservers, and MX records of that domain, making it easier to determine where the website is hosted.
 
 
 ## Demonstração
